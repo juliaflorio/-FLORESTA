@@ -1,37 +1,29 @@
-Area,Tratamentos,SISTEMA,REP,COL,S,N,H,,,,,
-C1a ,20F,cafe,1,A,37,18,3.386,,,,,
-C1b,20F,cafe,2,B,33,10,3.441,,,,,
-C1c ,20F,cafe,3,C,15,6,2.609,,,,,
-F1b ,20F,floresta,2,B,26,8,3.194,,,,,
-F1c ,20F,floresta,3,C,33,14,3.358,,,,,
-S1a,20F,silvicultura,1,A,40,18,3.502,,,,,
-S1b ,20F,silvicultura,2,B,47,41,3.09,,,,,
-S1c ,20F,silvicultura,3,C,23,14,2.897,,,,,
-C2a ,40F,cafe,1,A,33,15,3.414,,,,,
-C2c ,40F,cafe,3,C,36,16,3.325,,,,,
-F2a ,40F,floresta,1,A,21,9,2.792,,,,,
-F2b ,40F,floresta,2,B,20,16,2.434,,,,,
-F2c ,40F,floresta,3,C,26,9,3.145,,,,,
-S2a ,40F,silvicultura,1,A,14,7,2.413,,,,,
-S2b ,40F,silvicultura,2,B,43,27,3.355,,,,,
-S2c ,40F,silvicultura,3,C,16,17,2.583,,,,,
-C3a ,60F,cafe,1,A,31,13,3.233,,,,,
-C3b ,60F,cafe,2,B,19,9,2.811,,,,,
-C3c ,60F,cafe,3,C,15,5,2.659,,,,,
-F3b ,60F,floresta,2,B,23,7,3.085,,,,,
-F4a 1,80F,floresta,1,A,27,47,3.061,,,,,
-F4a2,80F,floresta,2,A,14,18,2.524,,,,,
-F4a3,80F,floresta,3,A,28,73,2.723,,,,,
-F4a4,80F,floresta,4,A,17,40,2.423,,,,,
-F4b 1,80F,floresta,1,B,13,31,2.408,,,,,
-F4b2,80F,floresta,2,B,6,10,1.643,,,,,
-F4b3,80F,floresta,3,B,5,10,1.557,,,,,
-F4b4,80F,floresta,4,B,8,17,1.844,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+Area,Tratamentos,SISTEMA,REP,COL,S,N,H
+C1a ,20F,cafe,1,A,37,18,3.386
+C1b,20F,cafe,2,B,33,10,3.441
+C1c ,20F,cafe,3,C,15,6,2.609
+F1b ,20F,floresta,2,B,26,8,3.194
+F1c ,20F,floresta,3,C,33,14,3.358
+S1a,20F,silvicultura,1,A,40,18,3.502
+S1b ,20F,silvicultura,2,B,47,41,3.09
+S1c ,20F,silvicultura,3,C,23,14,2.897
+C2a ,40F,cafe,1,A,33,15,3.414
+C2c ,40F,cafe,3,C,36,16,3.325
+F2a ,40F,floresta,1,A,21,9,2.792
+F2b ,40F,floresta,2,B,20,16,2.434
+F2c ,40F,floresta,3,C,26,9,3.145
+S2a ,40F,silvicultura,1,A,14,7,2.413
+S2b ,40F,silvicultura,2,B,43,27,3.355
+S2c ,40F,silvicultura,3,C,16,17,2.583
+C3a ,60F,cafe,1,A,31,13,3.233
+C3b ,60F,cafe,2,B,19,9,2.811
+C3c ,60F,cafe,3,C,15,5,2.659
+F3b ,60F,floresta,2,B,23,7,3.085
+F4a 1,80F,floresta,1,A,27,47,3.061
+F4a2,80F,floresta,2,A,14,18,2.524
+F4a3,80F,floresta,3,A,28,73,2.723
+F4a4,80F,floresta,4,A,17,40,2.423
+F4b 1,80F,floresta,1,B,13,31,2.408
+F4b2,80F,floresta,2,B,6,10,1.643
+F4b3,80F,floresta,3,B,5,10,1.557
+F4b4,80F,floresta,4,B,8,17,1.844
